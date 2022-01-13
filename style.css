@@ -12,8 +12,8 @@ body {
   background-position: 20px 10px;
   background-image: url(./header-shapes\ mobile.png);
   background-size: cover;
-  background-position-y: 1px;
-  background-position-x: 30px;
+  background-position-y: 40px;
+  background-position-x: 0px;
   background-repeat: no-repeat;
 }
 
@@ -47,6 +47,11 @@ body {
   margin: 20px;
   align-content: center;
   color: rgb(32, 28, 87);
+}
+
+.image-intro ul {
+  display: flex;
+  list-style: none;
 }
 
 .image-intro i {
@@ -83,7 +88,7 @@ h1 {
 
 .icons-title h3 {
   font-weight: 400;
-  color: rgb(197, 131, 56);
+  color: #7f8cff;
   margin-bottom: 10px;
   font-size: 18px;
 }
