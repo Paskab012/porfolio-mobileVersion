@@ -13,7 +13,7 @@ body {
   background-image: url(./header-shapes\ mobile.png);
   background-size: cover;
   background-position-y: 40px;
-  background-position-x: 0px;
+  background-position-x: 0;
   background-repeat: no-repeat;
 }
 
